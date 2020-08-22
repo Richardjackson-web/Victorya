@@ -1,7 +1,7 @@
 .one{
     background-image: url(/asserts/img/img1.jpg);
-    height: 50rem;
-    background-size: cover;
+    height: 52rem;
+    background-size: cover2
 }
 .good{
     margin-top: 6rem;
@@ -20,6 +20,9 @@
     color: #fff;
     border: none;
 }
+.will{
+    text-align: justify;
+}
 .pay{
     border-radius: 3rem;
     color: #fff;
@@ -33,7 +36,7 @@
 }
 .best{
  margin-top: 7rem;
- text-align: justify;
+
 }
 .comf{
     margin-top: 3rem;
